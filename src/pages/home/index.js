@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import Delivery from "../../components/common/delivery";
+import Delivery from "../../components/delivery";
 import Footer from "../../components/common/footer";
 import Header from "../../components/common/header";
 import TabOptions from "../../components/common/tabOptions";
